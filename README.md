@@ -1,3 +1,3 @@
-E-Pharmacy_server
+# E-Pharmacy_server
 
-deployed at server-side.up.railway.app
+-demo: https://server-side.up.railway.app/
